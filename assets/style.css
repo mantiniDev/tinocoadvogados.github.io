@@ -21,7 +21,7 @@ h1 {
     font-size: 14px;
     font-weight: bold;
     font-family: 'Roboto', regular;
-    color: #1d2d3d;
+    color: #b06874;
     text-align: justify;
 }
 
@@ -85,7 +85,7 @@ div {
 
 .social-icons a {
     text-decoration: none;
-    color: #1c2c3c;
+    color: #b06874;
     font-size: 50px;
     padding: 30px;
 }
